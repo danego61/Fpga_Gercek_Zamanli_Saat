@@ -4,7 +4,7 @@
 
 ### Blok Diyagramı
 
-![Blok Diyagramı](https://github.com/danego61/Fpga_Gercek_Zamanli_Saat_VHDL/blok_diyagramı.png)
+![Blok Diyagramı](https://github.com/danego61/Fpga_Gercek_Zamanli_Saat_VHDL/blob/main/blok_diyagram%C4%B1.PNG)
 
 ### Projenin Açıklaması
 
